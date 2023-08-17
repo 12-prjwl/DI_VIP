@@ -4,3 +4,4 @@ This repository is a representation of my work as an Data Science and Machine Le
 Link for the dataset:
 
 1. Credit card fraud detection : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 
+2. Face emotion detection : https://www.kaggle.com/datasets/msambare/fer2013
